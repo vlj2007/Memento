@@ -1,3 +1,4 @@
+// Класс, который будет управлять сохранениями
 import java.util.ArrayList;
 import java.util.List;
 
